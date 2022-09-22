@@ -1,6 +1,6 @@
 # Skillmarillion
 
-This repository is a collection of instructions, links, cheat sheets, tutorials, and so on to provide a quicker way to find helpful resources on the internet.
+One repository rule them all.
 
 ## Development
 
