@@ -1,6 +1,8 @@
 # Skillmarillion
 
-One repository rule them all.
+"*One repository rule them all.*"
+
+This repository is a collection of instructions, links, cheat sheets, tutorials, and so on to provide a quicker way to find helpful resources on the internet.
 
 ## Development
 
