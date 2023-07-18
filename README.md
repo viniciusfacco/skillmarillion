@@ -24,6 +24,12 @@ This repository is a collection of instructions, links, cheat sheets, tutorials,
 
 - [git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
+### Python
+
+#### Pandas
+
+- [pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
 ## Deployment
 
 ### Kubernetes
